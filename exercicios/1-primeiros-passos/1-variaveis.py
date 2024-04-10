@@ -1,4 +1,4 @@
-# Convenções para nomear as variáveis:
+# Convenções para nomear as variáveis;
 # - Iniciar sempre com letra minúscula;
 # - O nome pode ser composto por letras, algarismos e underlines;
 # - E não podemos usar palavras reservadas do Python, como if, for, from, etc. 
@@ -11,3 +11,5 @@ idade = 43
 
 # Declare uma variável do tipo booleano
 estudante = True
+
+print(idade)
